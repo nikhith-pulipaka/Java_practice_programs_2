@@ -1,4 +1,5 @@
 import java.util.*;
+import java.io.*;
 public class HighestOccuredelements {
 	static int maxRepeating(int arr[], int n, int k)
 	{
